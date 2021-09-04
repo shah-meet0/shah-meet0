@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Meet Shah!
 - 👀 I’m interested in Econometrics, Data Science and Finance!
 - 🌱 I’m currently learning Econometrics and Mathematical Economics at the London School of Economics and Political Science
-- 📫 You can contact me by email at:  meetsamshah@gmail.com 
-- Or Discord: Flario #5887
+- 📫 You can contact me by email at:  meetsamshah@gmail.com or Discord: Flario #5887
