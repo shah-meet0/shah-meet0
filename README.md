@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Meet Shah!
-- 👀 I’m interested in Econometrics, Data Science, Finance and Video Games!
-- 🌱 I’m currently learning Econometrics and Mathematical Economics at the London School of Economics
+- 👀 I’m interested in Econometrics, Data Science and Finance!
+- 🌱 I’m currently learning Econometrics and Mathematical Economics at the London School of Economics and Political Science
 - 📫 You can contact me by email at:  meetsamshah@gmail.com 
