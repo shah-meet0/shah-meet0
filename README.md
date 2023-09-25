@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Meet Shah!
-- 👀 I’m interested in Econometrics, Data Science and Finance!
+- 👀 I’m interested in Econometrics, Macroeconomics, Data Science and Finance!
 - 📫 You can contact me by email at:  meetsamshah@gmail.com or Discord: Flario #5887
